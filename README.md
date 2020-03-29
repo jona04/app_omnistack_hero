@@ -4,7 +4,7 @@ A Semana OmniStack é um workshop online produzido pela Rocketseat. Esta é a ve
 
 Para clonar o repositório, execute o seguinte comando no terminal:
 
-```git clone https://github.com/pushline/Be-the-Hero.git```
+```git clone https://github.com/jona04/app_omnistack_hero.git```
 
 # Instalação
 
